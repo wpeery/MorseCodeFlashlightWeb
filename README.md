@@ -1,2 +1,2 @@
-# Morse Code Flashlight
+# MorseCodeFlashlightWeb
 Web page for the Morse Code Flashlight App
