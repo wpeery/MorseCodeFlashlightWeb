@@ -1,8 +1,6 @@
 # Morse Code Flashlight Android App
-## Become a tester
-You can test the early access version of the app using one of the following links
+## Download the Android App
 * [Google Play](https://play.google.com/store/apps/details?id=com.wpeery.morsecodeflashlight)
-* [Web Link](https://play.google.com/apps/testing/com.wpeery.morsecodeflashlight)
 
 ## Android Instructions
 There are two components to this app, transmitting and decoding, each with their separate view.
@@ -14,7 +12,9 @@ For decoding, hit the 'Camera' button at the top right to be taken to the camera
 This app is intended to be used for two people to communicate with Morse code. One person can transmit a message with their flashlight and the other person can use their camera to  decode the message.
 
 # Morse Code Camera IOS App
-## Coming to the App store soon!
+## Download the IOS App
+* [App Store](https://apps.apple.com/app/morse-code-camera/id1670550522)
+
 ## IOS Instructions
 
 There are two components to this app, transmitting and decoding, each with their separate view.
