@@ -15,6 +15,10 @@ This app is intended to be used for two people to communicate with Morse code. O
 ## Download the IOS App
 * [App Store](https://apps.apple.com/app/morse-code-camera/id1670550522)
 
+## Screen Shots
+
+![Transmit1](image0.png) ![Transmit2](image1.png) ![Decode1](image3.png) ![Decode2](image4.png)
+
 ## IOS Instructions
 
 There are two components to this app, transmitting and decoding, each with their separate view.
