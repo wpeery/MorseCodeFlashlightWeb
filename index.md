@@ -17,7 +17,7 @@ This app is intended to be used for two people to communicate with Morse code. O
 
 ## Screen Shots
 
-![Transmit1](image0.png) ![Transmit2](image1.png) ![Decode1](image3.png) ![Decode2](image4.png)
+![Transmit1](image0.png) ![Transmit2](image1.png) ![Decode1](image2.png) ![Decode2](image3.png)
 
 ## IOS Instructions
 
